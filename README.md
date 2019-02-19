@@ -6,12 +6,12 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 
 ## BIBLIOTHEQUE UTILISEE
 
-#include <Adafruit_Sensor.h>
-#include "DHT.h"
-#include <WiFi.h>
-#include "Adafruit_MQTT.h"
-#include "Adafruit_MQTT_Client.h"
-#include "uTimerLib.h"
+# Adafruit_Sensor.h
+# DHT.h
+# WiFi.h
+# Adafruit_MQTT.h
+# Adafruit_MQTT_Client.h
+# uTimerLib.h
 
 ## MATERIEL
 - Bread Bord
