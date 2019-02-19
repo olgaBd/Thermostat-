@@ -6,9 +6,11 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 - Bread Bord
 - Carte ESP32
 - DHT
-## IMAGE
-![photo: ](fritz_temp.jpg)
-## MONTAGE
+
 ## SCHEMA ELECTRIQUE
+
+![photo: ](fritz_temp.jpg)
+
 ## NODE-RED
 
+![photo: ](fritz_temp.jpg)
