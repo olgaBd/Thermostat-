@@ -7,6 +7,7 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 - Carte ESP32
 - DHT
 ## IMAGE
+![photo: ](arduinoalarmefrigo.jpg)
 ## MONTAGE
 ## SCHEMA ELECTRIQUE
 ## NODE-RED
