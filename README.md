@@ -13,4 +13,4 @@ Ce projet à été réalisé par [@WiLDCaT](https://github.com/wildcat7534); [@O
 
 ## NODE-RED
 
-![photo: ](fritz_temp.jpg)
+![photo: ](node-red.png)
